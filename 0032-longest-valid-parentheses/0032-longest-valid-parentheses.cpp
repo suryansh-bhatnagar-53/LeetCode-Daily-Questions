@@ -1,22 +1,35 @@
 class Solution {
 public:
-    int longestValidParentheses(auto& s) {
-        int res = 0;
-        vector<int> stack = {-1};
-        
-        for (int i = 0; i < s.size(); i++) {
-            if (s[i] == '(')
-                stack.push_back(i);
-            else {
-                stack.pop_back();
-                
-                if (stack.empty())
-                    stack.push_back(i);
-                else
-                    res = max(res, i - stack.back());
+    int longestValidParentheses(string s) {
+        int n=s.length();
+        vector<int> indices;
+        stack<int> st;
+        for(int i=0; i<n; ++i){
+            if(s[i]=='('){
+                st.push(i);
+            }
+            else{
+                if(!st.empty()){
+                    int idx=st.top();
+                    st.pop();
+                    indices.push_back(idx);
+                    indices.push_back(i);
+                }
             }
         }
-        
-        return res;
+        sort(indices.begin(), indices.end());
+        n=indices.size();
+        // cout<<n<<endl;
+        int ans=0;
+        int len=1;
+        for(int i=1; i<n; ++i){
+            if(indices[i]==(indices[i-1]+1)) len++;
+            else{
+                if(!(len&1)) ans=max(ans, len);
+                len=1;
+            }
+        }
+        if(!(len&1)) ans=max(ans, len);
+        return ans;
     }
 };
