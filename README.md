@@ -61,12 +61,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Binary Search
 |  |
 | ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Sorting
@@ -81,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/2778-sum-of-squares-of-special-elements) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
