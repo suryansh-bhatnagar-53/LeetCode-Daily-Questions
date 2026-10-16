@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/0032-longest-valid-parentheses) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -122,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
