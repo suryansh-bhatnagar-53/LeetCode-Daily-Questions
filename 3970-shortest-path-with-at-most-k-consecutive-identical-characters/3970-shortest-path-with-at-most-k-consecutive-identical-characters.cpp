@@ -1,55 +1,39 @@
-#define ll long long
 class Solution {
-private:
-    
 public:
     int shortestPath(int n, vector<vector<int>>& edges, string labels, int k) {
-        vector<vector<pair<ll,ll>>> adj(n);
-        for(auto it : edges){
-            adj[it[0]].push_back({it[1],it[2]});
+        using T = tuple<int,int,int,char>;
+        vector<vector<pair<int,int>>>adj(n);
+        for(auto &i : edges){
+            adj[i[0]].push_back({i[1],i[2]});
         }
-        vector<vector<ll>> dist(n,vector<ll>(k + 1,LLONG_MAX/2));
-        priority_queue<vector<ll>,vector<vector<ll>>,greater<>> pq;
+        priority_queue<T,vector<T>,greater<T>>pq;
+        vector<vector<int>>dist(n,vector<int>(k + 1,INT_MAX));
+        pq.push({0,0,1,labels[0]});
         dist[0][1] = 0;
-        pq.push({0,0,1});
-
         while(!pq.empty()){
-            vector<ll> curr = pq.top();
+            auto [dis,node,p_streak,p_char] = pq.top();
             pq.pop();
-            ll d = curr[0];
-            ll u = curr[1];
-            ll r = curr[2];
-
-            if(d > dist[u][r]){
-                continue;
+            if(node == n - 1){
+                return dis;
             }
-
-            for(auto it : adj[u]){
-                int v = it.first;
-                int w = it.second;
-
-                int newr = 1;
-                if(labels[v] == labels[u]){
-                    newr = r + 1;
+            for(auto &i : adj[node]){
+                int n_dist = dis + i.second;
+                int n_streak = p_streak,n_char = labels[i.first];
+                if(p_char == n_char){
+                    n_streak++;
                 }
-                if(newr > k){
+                else{
+                    n_streak = 1;
+                }
+                if(n_streak > k){
                     continue;
                 }
-
-                ll nd = d + w;
-                if(nd < dist[v][newr]){
-                    dist[v][newr] = nd;
-                    pq.push({nd,(ll)v,(ll)newr});
+                if(dist[i.first][n_streak] > n_dist){
+                    dist[i.first][n_streak] = n_dist;
+                    pq.push({n_dist,i.first,n_streak,n_char});
                 }
             }
         }
-        ll sol = LLONG_MAX;
-        for(int i = 0;i<=k;i++){
-            sol = min(sol,dist[n-1][i]);
-        }
-        if(sol == LLONG_MAX){
-            return -1;
-        }
-        return sol;
+        return -1;
     }
 };
