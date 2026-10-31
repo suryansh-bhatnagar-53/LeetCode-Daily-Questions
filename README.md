@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/0032-longest-valid-parentheses) |
+| [0300-longest-increasing-subsequence](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/0300-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/0678-valid-parenthesis-string) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3665-twisted-mirror-path-count](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/3665-twisted-mirror-path-count) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/0300-longest-increasing-subsequence) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/1870-minimum-speed-to-arrive-on-time) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/0300-longest-increasing-subsequence) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -213,4 +216,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
