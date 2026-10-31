@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1648-sell-diminishing-valued-colored-balls](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/0300-longest-increasing-subsequence) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1648-sell-diminishing-valued-colored-balls](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -99,12 +101,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/0300-longest-increasing-subsequence) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1648-sell-diminishing-valued-colored-balls](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Sorting
 |  |
 | ------- |
+| [1648-sell-diminishing-valued-colored-balls](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -114,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1648-sell-diminishing-valued-colored-balls](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Enumeration
@@ -144,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1648-sell-diminishing-valued-colored-balls](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3886-sum-of-sortable-integers](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/3886-sum-of-sortable-integers) |
 ## Binary Indexed Tree
